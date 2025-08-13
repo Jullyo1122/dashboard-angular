@@ -28,3 +28,25 @@ mat-grid-tile {
   height: 620px;
   margin-top: -3%;
 }
+
+.mb-0.h1{
+  font-size: 20px;
+  font-weight: bold;
+}
+.navbar .search-container {
+  flex: 1;
+  margin: -17px 650px;
+}
+.navbar .icons {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: -25px 900px;
+}
+.menu {
+  display: flex;
+  gap: 15px;
+  padding: 20px 20px;
+  color: white;
+  flex-direction: column;
+}
